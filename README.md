@@ -1,3 +1,5 @@
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 # Projet : prise en main du métier de Data Analyst
 
 Ce projet a pour objectif de prendre possession du métier de **Data Analyst** en se projetant dans ce rôle, en identifiant les compétences attendues et en construisant un parcours de formation structuré.
